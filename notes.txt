@@ -1,1 +1,8 @@
-la la la laaaaaaaa
+  Part	               Pick	                                       Price (USD)
+CPU	               AMD Ryzen 5 7600	                             ~$152–171
+Motherboard        A620M (budget) / B650M (better upgrades)	     ~$90–106 / ~$130–163
+RAM	               16GB DDR5 6000MHz	                         ~$57–208 (see note)
+SSD	               512GB NVMe (1TB)	                             ~$45–53 (~$81–98)
+PSU	               550–650W 80+ certified	                     ~$41–57
+Casing	           mATX/ATX mid tower	                         ~$24–41
+GPU (optional)	   RTX 4060 / 5060 class	                     ~$407–489
